@@ -25,13 +25,8 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "JuneX Ultra v3 session token (june-ultra:~...) \u2014 get yours on the pairing page",
+      "description": "JuneX Ultra v3 session token (june-ultra:~...) — get yours on the pairing page",
       "required": true,
-      "value": ""
-    },
-    "REPO_URL": {
-      "description": "Optional: zip URL of the bot source the loader downloads at startup (default: official June Ultra source)",
-      "required": false,
       "value": ""
     }
   },
